@@ -1,14 +1,14 @@
 # quadratic-function
-* DESCRIPCION: Este proyecto tiene la finalidad de resolver una ecuacion cuadratica de segundo grado mediante el lenguaje python. 
+*DESCRIPCION: Este proyecto tiene la finalidad de resolver una ecuacion cuadratica de segundo grado mediante el lenguaje python. 
 
-* USO: Para utilizar correctamente este codigo, hay que seguir los siguientes pasos:
+*USO: Para utilizar correctamente este codigo, hay que seguir los siguientes pasos:
     *PRIMERO: Crear una instancia de la clase FuncionCuadratica().
     *SEGUNDO: Llamar al metodo ingreso_dato() y pasarle por parametros los respectivos coeficientes a, b y c.
     *TERCERO: Llamar al metodo calcular_discriminante().
     *CUARTO: Llamar al metodo evaluar_discriminante().
     *QUINTO: LLamar al metodo mostrar_resultado().
 
-* EXPLICACION: Aqui una explicacion de cada paso mas a detalle:
+*EXPLICACION: Aqui una explicacion de cada paso mas a detalle:
     *PRIMERO: En este paso se crea una instancia de la clase FuncionCuadratica() para luego poder trabajar con sus metodos.
     *SEGUNDO: Al llamar al metodo ingreso_dato(), se pide al usuario los valores de los 3 coeficientes guardandolos en una lista (el coeficiente a no puede ser igual a 0).
     *TERCERO: Al llamar al metodo calcular_discriminante(), se calcula el valor de la discriminante y la guarda en una variable.
